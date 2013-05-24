@@ -1,0 +1,6 @@
+[submodule "themes/color-theme-solarized"]
+	path = themes/color-theme-solarized
+	url = git://github.com/sellout/emacs-color-theme-solarized.git
+[submodule "themes/cyberpunk-theme.el.new"]
+	path = themes/cyberpunk-theme.el.new
+	url = git://github.com/n3mo/cyberpunk-theme.el.git
