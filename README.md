@@ -1,12 +1,20 @@
 d-_-b
 =====
-emacs configuration
+my emacs settings
 
 Themes
 ------
-[Cyberpunk]
-[Solarized]
+[Cyberpunk](https://github.com/n3mo/cyberpunk-theme.el)
+[Solarized](https://github.com/sellout/emacs-color-theme-solarized)
 
-[Cyberpunk]: https://github.com/n3mo/cyberpunk-theme.el
-[Solarized]: https://github.com/sellout/emacs-color-theme-solarized
+Usage
+-----
+```git
+git submodule init
+```
+
+```git
+git submodule update
+```
+
 
